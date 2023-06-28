@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juego>
+  <pregunta>
+    <texto>�Capital de Espa�a?</texto>
+    <respuesta1>Madrid</respuesta1>
+    <respuesta2>Barcelona</respuesta2>
+    <respuesta3>Sevilla</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>�Capital de Espa�a?</texto>
+    <respuesta1>Madrid</respuesta1>
+    <respuesta2>Barcelona</respuesta2>
+    <respuesta3>Sevilla</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Capital de Brasil?</texto>
+    <respuesta1>Sao Paulo</respuesta1>
+    <respuesta2>Brasilia</respuesta2>
+    <respuesta3>Rio de Janeiro</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Pico más alto de España?</texto>
+    <respuesta1>Teide</respuesta1>
+    <respuesta2>Moncayo</respuesta2>
+    <respuesta3>Mulhacén</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Rio más largo de España?</texto>
+    <respuesta1>Duero</respuesta1>
+    <respuesta2>Ebro</respuesta2>
+    <respuesta3>Tajo</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Tipico de Aranda?</texto>
+    <respuesta1>Vino</respuesta1>
+    <respuesta2>Cochinillo</respuesta2>
+    <respuesta3>Cogollos</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+</juego>
+
